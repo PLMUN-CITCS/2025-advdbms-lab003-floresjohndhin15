@@ -6,3 +6,4 @@ USE `UniversityDB`;
 
 -- Verification (Optional): 
 SELECT DATABASE(); -- This will show the currently selected database.
+
